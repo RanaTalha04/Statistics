@@ -4,3 +4,4 @@ This repository will contain tasks that I will complete to improve my Stats skil
 - ### **MCT** → Measure of Central Tendency 
 - ### **MoV** → Measure of Variablity
 - ### **Percentile** → Percentile, Percentage, Quartile
+- ### **MoS** → Measure of Shape
