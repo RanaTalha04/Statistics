@@ -5,4 +5,5 @@ This repository will contain tasks that I will complete to improve my Stats skil
 - ### **MoV** → Measure of Variablity
 - ### **Percentile** → Percentile, Percentage, Quartile
 - ### **MoS** → Measure of Shape
-- ### **corr** → Correlation and Covariance
+- ### **Corr** → Correlation and Covariance
+- ### **CLT** → Central limit Theorem
