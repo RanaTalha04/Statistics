@@ -1,5 +1,5 @@
 # Statistics
-This repository will contain tasks that I will complete to improve my Stats skills.
+This repository has different concepts from statistics implemented using python.
 
 - ### **MCT** → Measure of Central Tendency 
 - ### **MoV** → Measure of Variablity
