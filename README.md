@@ -9,3 +9,4 @@ This repository will contain tasks that I will complete to improve my Stats skil
 - ### **CLT** → Central limit Theorem
 - ### **Z-Test** → Calculate Z-test, Z-score
 - ### **T-Test** → Calculate T-test, T-score
+- ### **Chi-Square-Test** → Calculate Chi-square value
