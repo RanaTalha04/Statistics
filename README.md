@@ -7,3 +7,5 @@ This repository will contain tasks that I will complete to improve my Stats skil
 - ### **MoS** → Measure of Shape
 - ### **Corr** → Correlation and Covariance
 - ### **CLT** → Central limit Theorem
+- ### **Z-Test** → Calculate Z-test, Z-score
+- ### **T-Test** → Calculate T-test, T-score
